@@ -21,7 +21,7 @@ monolithic = ["paging", "dep:axfs_ramfs"]
 default = []
 
 [dependencies]
-log = "0.4"
+log = "0.4.17"
 cfg-if = "1.0"
 bitflags = "2.2"
 static_assertions = "1.1.0"
